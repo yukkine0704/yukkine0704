@@ -1,28 +1,75 @@
-# 💫 About Me:
-👯 I’m looking to collaborate on any web project<br>🌱 I’m currently learning backend development <br>💬 Ask me about anything and I'll explain it
+<p align=center>
+  <img src=./assets/profile-banner.svg alt=Orbital-signal-profile-banner width=100% />
+</p>
 
+<h1 align=center>Kevin Gálvez</h1>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@yukkine0704) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/kevin-g%C3%A1lvez-s%C3%A1nchez-553a57296?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/yukkine_0704) 
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@yukkineditings2300)
+<p align=center>
+  <strong>Developer &amp; Digital Creator</strong>
+</p>
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Apollo-GraphQL](https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=yukkine0704&theme=solarized-light&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=yukkine0704&theme=solarized-light&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=yukkine0704&theme=solarized-light&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p align=center>
+  Building web products with React, TypeScript and Node.js—and atmospheric worlds for Kerbal Space Program.
+</p>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=yukkine0704&theme=solarized-light&no-frame=false&no-bg=true&margin-w=4)
+<p align=center>
+  <a href=https://www.linkedin.com/in/kevin-g%C3%A1lvez-s%C3%A1nchez-553a57296/>Connect on LinkedIn</a>
+  ·
+  <a href=https://www.youtube.com/@yukkineditings2300>Creative work on YouTube</a>
+</p>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
+## About
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=yukkine0704&limit=5&theme=solarized-dark&combine_all_yearly_contributions=true)
+I'm a developer and digital creator based in Cuba. I enjoy turning ideas into clear, useful web experiences and combining technical problem-solving with visual craft.
 
----
-[![](https://visitcount.itsvg.in/api?id=yukkine0704&icon=8&color=7)](https://visitcount.itsvg.in)
+Right now, I'm focused on the React, TypeScript and Node.js ecosystem. Outside the web, I create atmospheric and terrain enhancements for Kerbal Space Program—work that brings together configuration, experimentation and digital art.
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+I'm open to web collaborations, creative technical projects and professional opportunities.
+
+## Featured work
+
+### Building now — Web application
+
+A new product built with React, TypeScript and Node.js. Its public repository, screenshots and live demo will be shared when the first release is ready.
+
+### [GPP Volumetrics](https://github.com/yukkine0704/GPP-Volumetrics)
+
+A visual overhaul for Galileo's Planet Pack with volumetric clouds, atmospheric lighting and distinctive weather effects.
+
+[View the repository](https://github.com/yukkine0704/GPP-Volumetrics) · [Download on SpaceDock](https://spacedock.info/mod/3827/GPP%20Volumetrics%20Horizons)
+
+### [JNSQ Parallax Continued](https://github.com/yukkine0704/JNSQ_ParallaxScattersContinued)
+
+An updated continuation that brings Parallax Continued terrain support to JNSQ while preserving its custom textures.
+
+[View the repository](https://github.com/yukkine0704/JNSQ_ParallaxScattersContinued)
+
+## Tools I work with
+
+**Core**
+
+![TypeScript](https://img.shields.io/badge/TypeScript-172033?style=flat-square&logo=typescript&logoColor=67E8F9)
+![React](https://img.shields.io/badge/React-172033?style=flat-square&logo=react&logoColor=67E8F9)
+![Node.js](https://img.shields.io/badge/Node.js-172033?style=flat-square&logo=nodedotjs&logoColor=67E8F9)
+
+**Web and mobile**
+
+![Next.js](https://img.shields.io/badge/Next.js-172033?style=flat-square&logo=nextdotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-172033?style=flat-square&logo=express&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-172033?style=flat-square&logo=react&logoColor=A78BFA)
+![GraphQL](https://img.shields.io/badge/GraphQL-172033?style=flat-square&logo=graphql&logoColor=A78BFA)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-172033?style=flat-square&logo=postgresql&logoColor=A78BFA)
+
+**Creative**
+
+![Adobe Photoshop](https://img.shields.io/badge/Photoshop-172033?style=flat-square&logo=adobephotoshop&logoColor=67E8F9)
+![Adobe After Effects](https://img.shields.io/badge/After_Effects-172033?style=flat-square&logo=adobeaftereffects&logoColor=A78BFA)
+![Adobe Illustrator](https://img.shields.io/badge/Illustrator-172033?style=flat-square&logo=adobeillustrator&logoColor=FFB86B)
+
+## GitHub activity
+
+![Kevin's public GitHub activity](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yukkine0704&theme=github_dark)
+
+## Let's build something
+
+I'm available for web collaborations, creative technical work and professional opportunities. The best way to reach me is through [LinkedIn](https://www.linkedin.com/in/kevin-g%C3%A1lvez-s%C3%A1nchez-553a57296/).

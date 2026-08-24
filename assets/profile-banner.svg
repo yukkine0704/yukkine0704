@@ -1,0 +1,82 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 320" role="img" aria-labelledby="title description">
+  <title id="title">Orbital signal profile banner</title>
+  <desc id="description">Fine technical lines converge around a planetary horizon on a dark field.</desc>
+
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#080b13"/>
+      <stop offset="0.58" stop-color="#0d1422"/>
+      <stop offset="1" stop-color="#12142a"/>
+    </linearGradient>
+    <linearGradient id="horizon" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#67e8f9" stop-opacity="0.72"/>
+      <stop offset="0.12" stop-color="#67e8f9" stop-opacity="0.12"/>
+      <stop offset="0.42" stop-color="#18243b" stop-opacity="0.88"/>
+      <stop offset="1" stop-color="#090c15"/>
+    </linearGradient>
+    <radialGradient id="orbitalGlow">
+      <stop offset="0" stop-color="#a78bfa" stop-opacity="0.18"/>
+      <stop offset="0.5" stop-color="#67e8f9" stop-opacity="0.05"/>
+      <stop offset="1" stop-color="#67e8f9" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse">
+      <path d="M48 0H0V48" fill="none" stroke="#a9b8d0" stroke-opacity="0.055" stroke-width="1"/>
+    </pattern>
+    <filter id="grain" x="0" y="0" width="100%" height="100%">
+      <feTurbulence type="fractalNoise" baseFrequency="0.8" numOctaves="2" seed="11" result="noise"/>
+      <feColorMatrix in="noise" type="saturate" values="0" result="mono"/>
+      <feComponentTransfer in="mono" result="softNoise">
+        <feFuncA type="table" tableValues="0 0.035"/>
+      </feComponentTransfer>
+      <feBlend in="SourceGraphic" in2="softNoise" mode="screen"/>
+    </filter>
+    <clipPath id="frame">
+      <rect width="1200" height="320" rx="22"/>
+    </clipPath>
+  </defs>
+
+  <g clip-path="url(#frame)" filter="url(#grain)">
+    <rect width="1200" height="320" fill="url(#background)"/>
+    <rect width="1200" height="320" fill="url(#grid)"/>
+
+    <g fill="none" stroke-linecap="round">
+      <path d="M55 94C306 94 480 110 650 148S884 190 1027 155" stroke="#9fb1c9" stroke-opacity="0.13"/>
+      <path d="M55 112C288 112 471 123 632 151S861 181 1015 151" stroke="#9fb1c9" stroke-opacity="0.22"/>
+      <path d="M55 130C273 130 458 135 615 154S841 173 1005 148" stroke="#67e8f9" stroke-opacity="0.48"/>
+      <path d="M55 148C263 148 451 147 604 157S823 167 998 146" stroke="#d8e4f2" stroke-opacity="0.32"/>
+      <path d="M55 166C271 166 462 158 615 160S841 161 1005 144" stroke="#9fb1c9" stroke-opacity="0.16"/>
+
+      <circle cx="1008" cy="145" r="42" stroke="#d8e4f2" stroke-opacity="0.38"/>
+      <circle cx="1008" cy="145" r="72" stroke="#67e8f9" stroke-opacity="0.20"/>
+      <ellipse cx="1008" cy="145" rx="112" ry="42" transform="rotate(-13 1008 145)" stroke="#9fb1c9" stroke-opacity="0.19"/>
+      <ellipse cx="1008" cy="145" rx="142" ry="58" transform="rotate(18 1008 145)" stroke="#9fb1c9" stroke-opacity="0.10"/>
+
+      <path d="M827 172A188 188 0 0 1 1178 236" stroke="#67e8f9" stroke-opacity="0.28" stroke-dasharray="1 9"/>
+      <path d="M880 67A145 145 0 0 1 1142 166" stroke="#d8e4f2" stroke-opacity="0.19" stroke-dasharray="1 7"/>
+    </g>
+
+    <g fill="#a9b8d0">
+      <circle cx="124" cy="130" r="1.5" opacity="0.42"/>
+      <circle cx="251" cy="132" r="1.5" opacity="0.52"/>
+      <circle cx="386" cy="139" r="1.5" opacity="0.62"/>
+      <circle cx="518" cy="149" r="1.5" opacity="0.72"/>
+      <circle cx="650" cy="156" r="1.5" opacity="0.82"/>
+      <circle cx="781" cy="159" r="1.5" opacity="0.92"/>
+    </g>
+
+    <circle cx="1008" cy="145" r="112" fill="url(#orbitalGlow)"/>
+    <circle cx="1008" cy="145" r="4.5" fill="#a78bfa"/>
+    <circle cx="1008" cy="145" r="11" fill="none" stroke="#a78bfa" stroke-opacity="0.22"/>
+
+    <path d="M650 332C764 208 943 194 1093 239C1151 256 1190 284 1224 320V352H650Z" fill="url(#horizon)"/>
+    <path d="M650 332C764 208 943 194 1093 239C1151 256 1190 284 1224 320" fill="none" stroke="#67e8f9" stroke-opacity="0.58" stroke-width="1.5"/>
+
+    <g stroke="#cbd7e8" stroke-opacity="0.26" stroke-width="1">
+      <path d="M74 253H210"/>
+      <path d="M74 260H166"/>
+      <path d="M74 267H188"/>
+      <path d="M74 274H137"/>
+    </g>
+    <circle cx="224" cy="253" r="2" fill="#67e8f9"/>
+  </g>
+</svg>
