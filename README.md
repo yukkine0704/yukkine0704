@@ -13,7 +13,7 @@
 </p>
 
 <p align=center>
-  <a href=https://www.linkedin.com/in/kevin-g%C3%A1lvez-s%C3%A1nchez-553a57296/>Connect on LinkedIn</a>
+  <a href=mailto:lubbok0704@gmail.com>Contact me by email</a>
   ·
   <a href=https://www.youtube.com/@yukkineditings2300>Creative work on YouTube</a>
 </p>
@@ -32,17 +32,17 @@ I'm open to web collaborations, creative technical projects and professional opp
 
 A new product built with React, TypeScript and Node.js. Its public repository, screenshots and live demo will be shared when the first release is ready.
 
-### [GPP Volumetrics](https://github.com/yukkine0704/GPP-Volumetrics)
+### [GPP Volumetrics](https://github.com/toastbuilds/GPP-Volumetrics)
 
 A visual overhaul for Galileo's Planet Pack with volumetric clouds, atmospheric lighting and distinctive weather effects.
 
-[View the repository](https://github.com/yukkine0704/GPP-Volumetrics) · [Download on SpaceDock](https://spacedock.info/mod/3827/GPP%20Volumetrics%20Horizons)
+[View the repository](https://github.com/toastbuilds/GPP-Volumetrics) · [Download on SpaceDock](https://spacedock.info/mod/3827/GPP%20Volumetrics%20Horizons)
 
-### [JNSQ Parallax Continued](https://github.com/yukkine0704/JNSQ_ParallaxScattersContinued)
+### [JNSQ Parallax Continued](https://github.com/toastbuilds/JNSQ_ParallaxScattersContinued)
 
 An updated continuation that brings Parallax Continued terrain support to JNSQ while preserving its custom textures.
 
-[View the repository](https://github.com/yukkine0704/JNSQ_ParallaxScattersContinued)
+[View the repository](https://github.com/toastbuilds/JNSQ_ParallaxScattersContinued)
 
 ## Tools I work with
 
@@ -68,8 +68,8 @@ An updated continuation that brings Parallax Continued terrain support to JNSQ w
 
 ## GitHub activity
 
-![Kevin's public GitHub activity](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yukkine0704&theme=github_dark)
+![Kevin's public GitHub activity](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=toastbuilds&theme=github_dark)
 
 ## Let's build something
 
-I'm available for web collaborations, creative technical work and professional opportunities. The best way to reach me is through [LinkedIn](https://www.linkedin.com/in/kevin-g%C3%A1lvez-s%C3%A1nchez-553a57296/).
+I'm available for web collaborations, creative technical work and professional opportunities. The best way to reach me is by [email](mailto:lubbok0704@gmail.com).
